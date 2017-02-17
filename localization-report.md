@@ -124,6 +124,9 @@
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
+* Current Target File: [e2e\db74cb5f-5c6c-4252-91e4-b7c9155840cf.md](https://github.com/OpenLocalizationTestOrg/ol-test4-dede/blob/0d04b777a05503f029b7000985442050af2fbc69/e2e/db74cb5f-5c6c-4252-91e4-b7c9155840cf.md)
+* Current Handback File: [db74cb5f-5c6c-4252-91e4-b7c9155840cf.d8c3270d535368f03b776ade556e6fff3fd5e980.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handback/blob/9a513d0da9ee87a16d21fb626b3b2e863a4172c9/ol-handback/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/db74cb5f-5c6c-4252-91e4-b7c9155840cf.d8c3270d535368f03b776ade556e6fff3fd5e980.de-de.xlf)
+* Current Handback Datetime: 2017-02-17 08:40:43
 * [Back to Top](#report-top)
 
 
