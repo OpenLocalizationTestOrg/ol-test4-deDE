@@ -2,8 +2,8 @@
 > This report show how many files are handback automatically in this handoff.
 
 ## Summary
-* **Auto Archive Count**: 1
-* **Auto Handback Count**: 1
+* **Auto Archive Count**: 0
+* **Auto Handback Count**: 0
 
 ## Auto Handback List
 > The following xliff are handback automatically since the same xliff has been handback before with the same translation quality.
@@ -13,7 +13,6 @@
 
 | Handoff Xliff | Referenced Xliff | 
 | --- | --- | 
-| [ol-handoff\OpenLocalizationTestOrg\ol-test4-dede\xinjiang\fc27428e-122e-437e-b182-a7091826a6e4.e81b93e2e76f7862521cedf77167183d531b2600.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/c9526dde6247da0d49f8f99c3a2995d615cdeae4/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/fc27428e-122e-437e-b182-a7091826a6e4.e81b93e2e76f7862521cedf77167183d531b2600.de-de.xlf) | [ol-handback\OpenLocalizationTestOrg\ol-test4-dede\xinjiang\ht\fc27428e-122e-437e-b182-a7091826a6e4.e81b93e2e76f7862521cedf77167183d531b2600.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handback/blob/df1d3dc6f4ed5779ef7330a57f2c06d76289dd7b/ol-handback/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/fc27428e-122e-437e-b182-a7091826a6e4.e81b93e2e76f7862521cedf77167183d531b2600.de-de.xlf) | 
 
 ## Auto Archived List
 > The following xliff are archived automatically since the same xliff has been archived or it is already handback
@@ -23,5 +22,4 @@
 
 | Handoff Xliff | Archived Reason | 
 | --- | --- | 
-| [ol-handoff\OpenLocalizationTestOrg\ol-test4-dede\xinjiang\fc27428e-122e-437e-b182-a7091826a6e4.e81b93e2e76f7862521cedf77167183d531b2600.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/c9526dde6247da0d49f8f99c3a2995d615cdeae4/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/fc27428e-122e-437e-b182-a7091826a6e4.e81b93e2e76f7862521cedf77167183d531b2600.de-de.xlf) | Handbacked | 
 
