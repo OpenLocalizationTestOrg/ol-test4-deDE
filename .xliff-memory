@@ -187,8 +187,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\9efb85c86988bb33cda01b464a7b2f0f69e6e21f.cc45d1ae629b532af3c7e787547c5a5dc85572b7.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\mt\\file_no_deleted_multi_path_1.2336e4b28de82563dc9ea89a1eb254ab730456de.de-de.xlf",
+      "LocXliffCommit": "562a90686f2d3128ad5e38771d60325a23438679"
     },
     "e2e\\file_partial_deleted_multi_path_1.md.90db4a66cadf7964e53c08343847f0e6ec53c2d7.HT": {
       "SourceFilename": "e2e\\file_partial_deleted_multi_path_1.md",
@@ -197,8 +197,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\f3b00623f182dfeac340bf0d954a3f8158cada64.add922033c8d9265c9782859cf98d4cd7eb9479c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\mt\\file_partial_deleted_multi_path_1.950eb2cafff7c1eccbf1f4ff641b1cbe66aecd0c.de-de.xlf",
+      "LocXliffCommit": "562a90686f2d3128ad5e38771d60325a23438679"
     },
     "e2e\\file_full_deleted_multi_path_1.md.d18dcba976b8aaa1d1a6310e4edf32a2c32cff3e.HT": {
       "SourceFilename": "e2e\\file_full_deleted_multi_path_1.md",
@@ -217,8 +217,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\622a81557313f83eebaa1e592246b3634e5c0b7f.2bff59574f2323173ef65543528246432027f3e2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\mt\\file_no_deleted_single_path.84480e30a75eaa7877ca77d49d2059db6121edd7.de-de.xlf",
+      "LocXliffCommit": "562a90686f2d3128ad5e38771d60325a23438679"
     },
     "e2e\\file_no_deleted_single_path.md.3b577df82d269bcf786dba78e9dd1c679e59c32d.HT": {
       "SourceFilename": "e2e\\file_no_deleted_single_path.md",
