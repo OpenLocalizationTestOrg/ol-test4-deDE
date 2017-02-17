@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "5c25f372595eb6639351642199a94004d87c8d70",
-  "LastTranslatedCommit": "80599be17e4f365974da9e10fa525cabbdf02045",
+  "LastTranslatedCommit": "84948f6cd50753fc7afba168201585237e988a31",
   "LastTansformerVersion": null,
   "LastConfigHash": "9073e1ea929038d21bf26099587cd2fc1c2cbbbb",
   "Items": {
@@ -1429,10 +1429,18 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackDateTime": "2017-02-17T08:49:04.868798Z",
       "HandbackName": null,
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: d2dxaph2.0sx is different with handoff file name: 49906aa1-7bfa-4bd9-ba7c-060d782057c6.79a23d1e2efe6af140fe58c6d3a1a9f105ff0667.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: d2dxaph2.0sx is different with handoff file name: 49906aa1-7bfa-4bd9-ba7c-060d782057c6.79a23d1e2efe6af140fe58c6d3a1a9f105ff0667.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
