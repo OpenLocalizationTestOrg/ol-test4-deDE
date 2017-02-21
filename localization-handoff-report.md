@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\0b5f1004-4731-4c8f-b5e5-313831c58e7f.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/02cfa98958ee39edcc54700814f424bdec82bbc0/e2e/0b5f1004-4731-4c8f-b5e5-313831c58e7f.md) | HandedOffSuccess | [Details](#37c15fd6ea66be93e6959e84bd7fef94627290f41)
+ [e2e\0b5f1004-4731-4c8f-b5e5-313831c58e7f.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/85e2a7a34a21dc7bdb103f266fc6f39541ec744c/e2e/0b5f1004-4731-4c8f-b5e5-313831c58e7f.md) | HandedOffSuccess | [Details](#b93da2da94b315c6a00431ff1317b1264aebc9491)
 
 ## Item Details
-##### <a name='37c15fd6ea66be93e6959e84bd7fef94627290f41'></a> Source: [e2e\0b5f1004-4731-4c8f-b5e5-313831c58e7f.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/02cfa98958ee39edcc54700814f424bdec82bbc0/e2e/0b5f1004-4731-4c8f-b5e5-313831c58e7f.md)
+##### <a name='b93da2da94b315c6a00431ff1317b1264aebc9491'></a> Source: [e2e\0b5f1004-4731-4c8f-b5e5-313831c58e7f.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/85e2a7a34a21dc7bdb103f266fc6f39541ec744c/e2e/0b5f1004-4731-4c8f-b5e5-313831c58e7f.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [0b5f1004-4731-4c8f-b5e5-313831c58e7f.250f9803211f009878cfe5b5494a0692e9fd8064.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/0c33aacad038235091d4bbbcad91b779297dab60/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/0b5f1004-4731-4c8f-b5e5-313831c58e7f.250f9803211f009878cfe5b5494a0692e9fd8064.de-de.xlf)
-* Handoff Datetime: 2017-02-21 10:09:26
+* Handoff File: [0b5f1004-4731-4c8f-b5e5-313831c58e7f.250f9803211f009878cfe5b5494a0692e9fd8064.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/e0847a51b190bd6366f601912bbfa5777144cb6f/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/0b5f1004-4731-4c8f-b5e5-313831c58e7f.250f9803211f009878cfe5b5494a0692e9fd8064.de-de.xlf)
+* Handoff Datetime: 2017-02-21 10:10:26
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
