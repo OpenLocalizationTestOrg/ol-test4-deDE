@@ -1,32 +1,4 @@
 {
-  "f41640aa1dbcaa46220083cfd449a0d62ca69b20": [
-    "e2e\\file_full_deleted_multi_path_1.md",
-    "e2e\\file_full_deleted_multi_path_2.md"
-  ],
-  "9f010b84bb400cb1ef109a7b86dceccfb55fbd1c": [
-    "e2e\\file_full_deleted_multi_path_1.md",
-    "e2e\\file_full_deleted_multi_path_2.md"
-  ],
-  "05ce51fd8e6a72429cf9ad91c5a3efddbd102e54": [
-    "e2e\\file_full_deleted_multi_path_1.md",
-    "e2e\\file_full_deleted_multi_path_2.md"
-  ],
-  "f696125bdda53c4853f1310dca27233490e06aa4": [
-    "e2e\\file_full_deleted_multi_path_1.md",
-    "e2e\\file_full_deleted_multi_path_2.md"
-  ],
-  "d786a611aa97e92bceaca857b5e2915a317ba5c8": [
-    "e2e\\file_full_deleted_single_path.md"
-  ],
-  "539984448205ccae3b6f8b60e34dd40656a31d69": [
-    "e2e\\file_full_deleted_single_path.md"
-  ],
-  "cbd9792e688fa73652eb250669d50499e61efbf3": [
-    "e2e\\file_full_deleted_single_path.md"
-  ],
-  "a5893aece6524e3768a0138fcd38c1d68cff3d3d": [
-    "e2e\\file_full_deleted_single_path.md"
-  ],
   "b2829fc51bff946522bd50c5dffdd4d08982e5f7": [
     "e2e\\file_no_deleted_multi_path_1.md",
     "e2e\\file_no_deleted_multi_path_2.md"
@@ -34,6 +6,9 @@
   "efab41a1fb37a8a771f6a276c45dd0fd67f5ed87": [
     "e2e\\file_no_deleted_multi_path_1.md",
     "e2e\\file_no_deleted_multi_path_2.md"
+  ],
+  "f6502ee2423fd8135afa55ffc992a4bdbbd11590": [
+    "e2e\\file_no_deleted_single_path.md"
   ],
   "c37f25ae8dbdf3196aecd57ad0e4737d75268950": [
     "e2e\\file_no_deleted_single_path.md"
@@ -45,11 +20,12 @@
     "e2e\\file_no_deleted_single_path.md"
   ],
   "e7a9eb2b48e37f1555e5e5a361167a4478f72de2": [
-    "e2e\\file_partial_deleted_multi_path_1.md",
-    "e2e\\file_partial_deleted_multi_path_2.md"
+    "e2e\\file_partial_deleted_multi_path_1.md"
   ],
   "01ae234ec4ef76af9726d54b1905768b6854f844": [
-    "e2e\\file_partial_deleted_multi_path_1.md",
-    "e2e\\file_partial_deleted_multi_path_2.md"
+    "e2e\\file_partial_deleted_multi_path_1.md"
+  ],
+  "70d55d26ad9dd35b6789d67c3f5a3486bf2b1621": [
+    "e2e\\newfile.fd1f0987-de7e-413c-ac22-a64414502b3c.md"
   ]
 }
