@@ -2209,6 +2209,36 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\c5763bfd6e1ef2d1992b8ee4a80be0180a56c209.9a768e0f0554409ba6d258f345d9a9d6c66972c6.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\ht\\c6a4e831-8c10-4ca8-9fc6-a5c9297b7b8a.072a057e011713bbecfe3fefd838daf9601db604.de-de.xlf",
       "LocXliffCommit": "58625f85c313756eb5a7c2cd07ee44aa7347262d"
+    },
+    "e2e\\b5e2c926-f0f0-45e8-9ec7-494226b020b1.md.d84e2b93d422fb01a381c794283cb010c82a28d6.HT": {
+      "SourceFilename": "e2e\\b5e2c926-f0f0-45e8-9ec7-494226b020b1.md",
+      "XliffHash": "d84e2b93d422fb01a381c794283cb010c82a28d6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\20f0340c673f0d6718b49cc78ae93b65eb29b89c.022aefde60bad9af03a09e34a48fee57fb87e421.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "e2e\\771d07f9-2832-47ca-9120-017e14e31e6f.md.809243995716cd0a5e60ed5cf2f97c24d9762524.HT": {
+      "SourceFilename": "e2e\\771d07f9-2832-47ca-9120-017e14e31e6f.md",
+      "XliffHash": "809243995716cd0a5e60ed5cf2f97c24d9762524",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\baddb52966f9264505495ea2a1ff1b46f710d729.9f63c1f96ecd2104c2191cee9cbbb550fb652fe0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "e2e\\8bd9ed99-b0ee-4d91-ad2b-f930ab667fcd.md.39f644faddd25d8e929b424875c7ed6509ce9666.HT": {
+      "SourceFilename": "e2e\\8bd9ed99-b0ee-4d91-ad2b-f930ab667fcd.md",
+      "XliffHash": "39f644faddd25d8e929b424875c7ed6509ce9666",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\30ea422a0e026165dd7c5ef7323dfd7268f2e5bf.29425cc52e3b0b7e9e8bf79f8fd6391c0b7371e4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
