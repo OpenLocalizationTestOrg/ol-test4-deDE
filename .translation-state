@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "1110c96c627bf97569de744c0d0822f3f84371f5",
-  "LastTranslatedCommit": "7b4c9da4ba0741db6f925bd7df82fee6bf417c24",
+  "LastTranslatedCommit": "c76a2df74718030f6f1076455815b8c15dcb2667",
   "LastTansformerVersion": null,
   "LastConfigHash": "9073e1ea929038d21bf26099587cd2fc1c2cbbbb",
   "Items": {
@@ -7473,10 +7473,18 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackDateTime": "2017-02-21T04:32:30.1005828Z",
       "HandbackName": null,
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: 13dmwtmh.mek is different with handoff file name: cd8c76c6-033a-410e-8a69-51b7e1d7f1b3.0412de8136ff298f912f50140510bff0f4b3ef64.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: 13dmwtmh.mek is different with handoff file name: cd8c76c6-033a-410e-8a69-51b7e1d7f1b3.0412de8136ff298f912f50140510bff0f4b3ef64.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
