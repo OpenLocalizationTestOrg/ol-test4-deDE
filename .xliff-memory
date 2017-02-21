@@ -1447,8 +1447,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\2dd3e843b641b9710b1d5f8c9d674da1f1ffddf1.6b51d5e24dd9ca773df821e7629e8e509d979449.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\ht\\963181bc-6958-4ff6-8c33-2b88c8d2e373.d87e01e60e085c0193f3beaf6591cc8c1e2de774.de-de.xlf",
+      "LocXliffCommit": "6a6d7019d13f9dc8ca0e16a24c1c2530d748ea24"
     },
     "e2e\\93463dfa-68cf-422f-b64f-7fbecba66435.md.7407bce138c2763915188647a56237a7b5298a63.HT": {
       "SourceFilename": "e2e\\93463dfa-68cf-422f-b64f-7fbecba66435.md",
@@ -1457,8 +1457,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\1a765ccadcf5b0bd06c5e7aa24f82656809533f4.05f4ee9b0693c26de9e77fb0789ef3e385c6740e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\ht\\93463dfa-68cf-422f-b64f-7fbecba66435.e091aeb68b9cc4e11c6fd867a34e6865efe05053.de-de.xlf",
+      "LocXliffCommit": "6a6d7019d13f9dc8ca0e16a24c1c2530d748ea24"
     },
     "e2e\\abf76a13-d0ac-4ced-9749-2a9b9179f54b.md.c5d2508661da3ac23687381e9da19ff611a60221.HT": {
       "SourceFilename": "e2e\\abf76a13-d0ac-4ced-9749-2a9b9179f54b.md",
@@ -1467,8 +1467,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\da1ee82cbbe88362238cd2a91767fb72b9ddc0d4.4d63ebeeb4ce7684c707e78953f81f0f3b401cd7.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\ht\\abf76a13-d0ac-4ced-9749-2a9b9179f54b.4fbf976bafc28d7afcf6b94380f60b52c6c3c1fa.de-de.xlf",
+      "LocXliffCommit": "6a6d7019d13f9dc8ca0e16a24c1c2530d748ea24"
     }
   }
 }
