@@ -7,10 +7,10 @@
 [ Handoff Failed Files ](#handoff-failed-list)| 0
 [ Handoff Success Files ](#handoff-success-list)| 0
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 2
+[ Archive Success Files ](#archive-success-list)| 1
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 0
+[ In Sync Handback Files ](#insync-handback-success-list)| 1
 [ Ignored Files ](#ignored-list)| 1
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -22,7 +22,6 @@
 ## <a name='archive-success-list'></a> Archive Success File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\a.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/93bbe1061c155dba767af6dbaf737db80d9688fb/e2e/a.md) | ArchivedSuccess | [Details](#498f14626f9e0198d3e553e150c9d5d79f7570ed1)
  [e2e\b.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/7d7fa767d677dbf045c08e7d8e5edf9f52164586/e2e/b.md) | ArchivedSuccess | [Details](#a1d89cec01f2e9d969eda8f22217e0eba2e18cc82)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
@@ -30,6 +29,9 @@
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\a.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/93bbe1061c155dba767af6dbaf737db80d9688fb/e2e/a.md) | InSyncHandedBackSuccess | [Details](#498f14626f9e0198d3e553e150c9d5d79f7570ed1)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -52,20 +54,17 @@
 * [Back to Top](#report-top)
 
 ##### <a name='498f14626f9e0198d3e553e150c9d5d79f7570ed1'></a> Source: [e2e\a.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/93bbe1061c155dba767af6dbaf737db80d9688fb/e2e/a.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [e2e\a.md](https://github.com/OpenLocalizationTestOrg/ol-test4-dede/blob/a1cf13a0461ed7d24165801f19f976c8734553c9/e2e/a.md)
 * Handoff File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/3071ec8eca189f4410d71b8828711dcc7fdc3a92/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
 * Handoff Datetime: 2017-02-21 03:05:14
 * Handoff Reason: Include
 * Handoff Name: TestHandoff_201702211105
 * Archive File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/a8fb969371a52be25b4f90b1f09a59c5d135999d/ol-archive/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
 * Archive Datetime: 2017-02-21 03:05:55
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* Current Target File: [e2e\a.md](https://github.com/OpenLocalizationTestOrg/ol-test4-dede/blob/f2aaa14f9f3c3d1cfed34efc5c227b7a115187e2/e2e/a.md)
-* Current Handback File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handback/blob/d81e2887f27ad9c92b458967b299409e13829211/ol-handback/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
-* Current Handback Datetime: 2017-02-21 03:02:19
+* Handback File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handback/blob/054727b561acd3f34633ccc223b17c80e3299fe4/ol-handback/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
+* Handback Datetime: 2017-02-21 03:06:52
+* Handback Name: TestHandback_201702211106
 * [Back to Top](#report-top)
 
 ##### <a name='a1d89cec01f2e9d969eda8f22217e0eba2e18cc82'></a> Source: [e2e\b.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/7d7fa767d677dbf045c08e7d8e5edf9f52164586/e2e/b.md)
