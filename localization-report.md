@@ -70,6 +70,8 @@
 * Current Target File: [e2e\3a1918f1-2165-4e5e-adae-3b76022cf9c1.md](https://github.com/OpenLocalizationTestOrg/ol-test4-dede/blob/f3f8a62586f7a85036e74e270faab9a2b470f014/e2e/3a1918f1-2165-4e5e-adae-3b76022cf9c1.md)
 * Current Handback File: [3a1918f1-2165-4e5e-adae-3b76022cf9c1.9421d3fe8532d181b48d8e7feed9af76af942836.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handback/blob/fdd18db7c5826be2dae7fc51b88d89c460ea4fd7/ol-handback/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/3a1918f1-2165-4e5e-adae-3b76022cf9c1.9421d3fe8532d181b48d8e7feed9af76af942836.de-de.xlf)
 * Current Handback Datetime: 2017-02-21 11:21:07
+* Bilingual File: [3a1918f1-2165-4e5e-adae-3b76022cf9c1.9421d3fe8532d181b48d8e7feed9af76af942836.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handback/blob/fdd18db7c5826be2dae7fc51b88d89c460ea4fd7/ol-handback/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/3a1918f1-2165-4e5e-adae-3b76022cf9c1.9421d3fe8532d181b48d8e7feed9af76af942836.de-de.xlf)
+* Bilingual Datetime: 2017-02-21 11:22:56
 * [Back to Top](#report-top)
 
 ##### <a name='bc781c829725b8b63251a0e55b33eb4fefd767682'></a> Source: [e2e\7ec5a70b-2040-4294-8b65-9e06a1b383fe.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/10bd15a7487a8dfd62043d80a5ddc5698e28caa4/e2e/7ec5a70b-2040-4294-8b65-9e06a1b383fe.md)
@@ -119,6 +121,8 @@
 * Current Target File: [e2e\ffd27892-b2dd-4574-b8e5-67ebfb16d7ef.md](https://github.com/OpenLocalizationTestOrg/ol-test4-dede/blob/f3f8a62586f7a85036e74e270faab9a2b470f014/e2e/ffd27892-b2dd-4574-b8e5-67ebfb16d7ef.md)
 * Current Handback File: [ffd27892-b2dd-4574-b8e5-67ebfb16d7ef.3836110403b4c7246a4c7560d79208ff9e8f5ef7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handback/blob/fdd18db7c5826be2dae7fc51b88d89c460ea4fd7/ol-handback/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/ffd27892-b2dd-4574-b8e5-67ebfb16d7ef.3836110403b4c7246a4c7560d79208ff9e8f5ef7.de-de.xlf)
 * Current Handback Datetime: 2017-02-21 11:21:07
+* Bilingual File: [ffd27892-b2dd-4574-b8e5-67ebfb16d7ef.3836110403b4c7246a4c7560d79208ff9e8f5ef7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handback/blob/fdd18db7c5826be2dae7fc51b88d89c460ea4fd7/ol-handback/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/ffd27892-b2dd-4574-b8e5-67ebfb16d7ef.3836110403b4c7246a4c7560d79208ff9e8f5ef7.de-de.xlf)
+* Bilingual Datetime: 2017-02-21 11:22:56
 * [Back to Top](#report-top)
 
 
