@@ -13,7 +13,7 @@
 
 | Handoff Xliff | Referenced Xliff | 
 | --- | --- | 
-| [ol-handoff\OpenLocalizationTestOrg\ol-test4-dede\xinjiang\ht\9e4f7865-7696-48dc-b271-04c24c4f434b.bf98d5e15698a262a5918324a1cfe3857f86148f.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/e5c91806f0e2fa28939010636016dcdd1672bacd/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/9e4f7865-7696-48dc-b271-04c24c4f434b.bf98d5e15698a262a5918324a1cfe3857f86148f.de-de.xlf) | [ol-handback\OpenLocalizationTestOrg\ol-test4-dede\xinjiang\ht\9e4f7865-7696-48dc-b271-04c24c4f434b.bf98d5e15698a262a5918324a1cfe3857f86148f.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handback/blob/43aa51f8c23f78ac85c734e11efa6969ae20ca83/ol-handback/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/9e4f7865-7696-48dc-b271-04c24c4f434b.bf98d5e15698a262a5918324a1cfe3857f86148f.de-de.xlf) | 
+| [ol-handoff\OpenLocalizationTestOrg\ol-test4-dede\xinjiang\9e4f7865-7696-48dc-b271-04c24c4f434b.bf98d5e15698a262a5918324a1cfe3857f86148f.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/ef41bd362fd34711498057e02a6d7c3bd43b480a/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/9e4f7865-7696-48dc-b271-04c24c4f434b.bf98d5e15698a262a5918324a1cfe3857f86148f.de-de.xlf) | [ol-handback\OpenLocalizationTestOrg\ol-test4-dede\xinjiang\ht\9e4f7865-7696-48dc-b271-04c24c4f434b.bf98d5e15698a262a5918324a1cfe3857f86148f.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handback/blob/cdb9be8be1cfe54959b2da09444ccd7167e53ea5/ol-handback/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/9e4f7865-7696-48dc-b271-04c24c4f434b.bf98d5e15698a262a5918324a1cfe3857f86148f.de-de.xlf) | 
 
 ## Auto Archived List
 > The following xliff are archived automatically since the same xliff has been archived or it is already handback
@@ -23,5 +23,5 @@
 
 | Handoff Xliff | Archived Reason | 
 | --- | --- | 
-| [ol-handoff\OpenLocalizationTestOrg\ol-test4-dede\xinjiang\ht\9e4f7865-7696-48dc-b271-04c24c4f434b.bf98d5e15698a262a5918324a1cfe3857f86148f.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/e5c91806f0e2fa28939010636016dcdd1672bacd/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/9e4f7865-7696-48dc-b271-04c24c4f434b.bf98d5e15698a262a5918324a1cfe3857f86148f.de-de.xlf) | Handbacked | 
+| [ol-handoff\OpenLocalizationTestOrg\ol-test4-dede\xinjiang\9e4f7865-7696-48dc-b271-04c24c4f434b.bf98d5e15698a262a5918324a1cfe3857f86148f.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/ef41bd362fd34711498057e02a6d7c3bd43b480a/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/9e4f7865-7696-48dc-b271-04c24c4f434b.bf98d5e15698a262a5918324a1cfe3857f86148f.de-de.xlf) | Handbacked | 
 
