@@ -2317,8 +2317,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\f8b903d5e4b16dc9815d016fefce6fe97000fd4a.e52caaee5fbad981760801eb6deee9e43aee7ecb.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\ht\\76104de6-f9ab-4f0c-b9bb-d0829ba0fcc5.ee78096fa583584e3bfda049c1d6eb67dcdbcd4b.de-de.xlf",
+      "LocXliffCommit": "6885ff2eaff50c62c4dbd5d3a6d959da5088b36c"
     },
     "e2e\\eb66a91e-c100-44ff-a0df-67b3d6670d52.md.72169c764a16c900807cd8e7f5082b9e03f11043.HT": {
       "SourceFilename": "e2e\\eb66a91e-c100-44ff-a0df-67b3d6670d52.md",
@@ -2327,8 +2327,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\817c63c616c6f9b97172f1ee449d8dcd6708a06f.45ee03fa23fa76f92d8993bec0246342c0de2308.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\ht\\eb66a91e-c100-44ff-a0df-67b3d6670d52.1ea870367c9cb1bfec091701435ae1c4a4fb7aec.de-de.xlf",
+      "LocXliffCommit": "6885ff2eaff50c62c4dbd5d3a6d959da5088b36c"
     },
     "e2e\\45851643-1c4b-49d2-86a3-11352b36f042.md.c1a8b6b2dd1c31a875b204ce970f7b4a84713805.HT": {
       "SourceFilename": "e2e\\45851643-1c4b-49d2-86a3-11352b36f042.md",
@@ -2337,8 +2337,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\e7d5ac17c78046a9bc894ffdb5b28433fa762b05.83f8666351cc4a493b08c7ea045e2ac3f03cd9a1.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\ht\\45851643-1c4b-49d2-86a3-11352b36f042.65e6c562ef0c8ae012f7d785ae67f5590dac5750.de-de.xlf",
+      "LocXliffCommit": "6885ff2eaff50c62c4dbd5d3a6d959da5088b36c"
     }
   }
 }
