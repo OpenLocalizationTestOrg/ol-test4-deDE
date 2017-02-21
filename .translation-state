@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "327cfde99086787bd5ada7e0651c5b7a07a0bad3",
-  "LastTranslatedCommit": "82ae506df5f740d7af73d059dca7d96c6d7094b0",
+  "LastTranslatedCommit": "52ed00e224a32d7b46314c7e00fe84dd6229f6b1",
   "LastTansformerVersion": null,
   "LastConfigHash": "9073e1ea929038d21bf26099587cd2fc1c2cbbbb",
   "Items": {
@@ -11204,10 +11204,18 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackDateTime": "2017-02-21T10:15:44.7023967Z",
       "HandbackName": null,
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: vrejjin3.3g2 is different with handoff file name: 97aa4c9e-7306-4c55-a2d0-ca391f4ca931.c680500a63c76147ed4b0fbe248e08787a686f41.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: vrejjin3.3g2 is different with handoff file name: 97aa4c9e-7306-4c55-a2d0-ca391f4ca931.c680500a63c76147ed4b0fbe248e08787a686f41.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
