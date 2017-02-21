@@ -1,2 +1,2 @@
 ## OpenLocalization Workflow Test MarkDown
-* ![image2](.\8a41257d-73a0-442f-a784-fc9c93d6a299.png) thanks!
+* 314d6449-6850-451d-a26a-ed99fd08c01b thanks!
