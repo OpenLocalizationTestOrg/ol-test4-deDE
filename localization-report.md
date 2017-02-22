@@ -5,9 +5,9 @@
  -------- | ----- 
  Total Files | 10
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 2
+[ Handoff Success Files ](#handoff-success-list)| 1
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 5
+[ Archive Success Files ](#archive-success-list)| 6
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 2
@@ -18,7 +18,6 @@
 ## <a name='handoff-success-list'></a> Handoff Success File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\4cdbef23-6798-43d1-8dcc-e082370df603.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/4ae0b22e8c817245e66993cf4efdebfb65c558d9/e2e/4cdbef23-6798-43d1-8dcc-e082370df603.md) | HandedOffSuccess | [Details](#40d418c6b5c9cf65e3d54b60643890c47dbef5f43)
  [e2e\f3feb4d7-776b-4f2d-adf2-2d4b76f883fb.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/897cdfd6fcbf1cc03649551318c2f317c196eb86/e2e/f3feb4d7-776b-4f2d-adf2-2d4b76f883fb.md) | HandedOffSuccess | [Details](#2f4cba6a23023346f628208703d5dd665dd791858)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
@@ -27,6 +26,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [e2e\3ab3724e-a4ac-414f-9a64-82d917f520bb.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/9277b78b5b1e8193ed4f0cdb0d2ff33998788451/e2e/3ab3724e-a4ac-414f-9a64-82d917f520bb.md) | ArchivedSuccess | [Details](#c693a3f8560debd075d565b47e0f19afc62cac242)
+ [e2e\4cdbef23-6798-43d1-8dcc-e082370df603.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/4ae0b22e8c817245e66993cf4efdebfb65c558d9/e2e/4cdbef23-6798-43d1-8dcc-e082370df603.md) | ArchivedSuccess | [Details](#40d418c6b5c9cf65e3d54b60643890c47dbef5f43)
  [e2e\69f3ecfe-c3cb-44c4-adb4-e5a115cea11a.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/9277b78b5b1e8193ed4f0cdb0d2ff33998788451/e2e/69f3ecfe-c3cb-44c4-adb4-e5a115cea11a.md) | ArchivedSuccess | [Details](#c94ff8956f936ee693380d96c69c966c7bd98fe95)
  [e2e\b8d5c3e3-1eb5-45e2-8fa6-40e307dc449c.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/17c9a1dd524469c70c216bbf5b29df1e7b7e9a36/e2e/b8d5c3e3-1eb5-45e2-8fa6-40e307dc449c.md) | ArchivedSuccess | [Details](#0db8574307bf9e9bdf349575bfeeffeaa643d7b86)
  [e2e\eaf4563a-563d-4ade-8eb6-56a9aa18b524.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/b0780e67e99dfd1665fbb6f1643b9920ba7c4f6d/e2e/eaf4563a-563d-4ade-8eb6-56a9aa18b524.md) | ArchivedSuccess | [Details](#5360c8fab7f8ad1259b70adf4d81cf84a9ddf8d77)
@@ -91,14 +91,14 @@
 * [Back to Top](#report-top)
 
 ##### <a name='40d418c6b5c9cf65e3d54b60643890c47dbef5f43'></a> Source: [e2e\4cdbef23-6798-43d1-8dcc-e082370df603.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/4ae0b22e8c817245e66993cf4efdebfb65c558d9/e2e/4cdbef23-6798-43d1-8dcc-e082370df603.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [4cdbef23-6798-43d1-8dcc-e082370df603.9a8fef5b794f19b25db3b4c138b481602ee05444.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/7b0e9fb1adc4b688756b198ab47119966d865516/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/4cdbef23-6798-43d1-8dcc-e082370df603.9a8fef5b794f19b25db3b4c138b481602ee05444.de-de.xlf)
 * Handoff Datetime: 2017-02-22 07:00:28
 * Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Handoff Name: TestHandoff1
+* Archive File: [4cdbef23-6798-43d1-8dcc-e082370df603.9a8fef5b794f19b25db3b4c138b481602ee05444.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/fa9ad5e8fe7261d9282cc73358460e0a6e94e29f/ol-archive/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/4cdbef23-6798-43d1-8dcc-e082370df603.9a8fef5b794f19b25db3b4c138b481602ee05444.de-de.xlf)
+* Archive Datetime: 2017-02-22 07:01:14
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
