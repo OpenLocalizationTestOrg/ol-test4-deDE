@@ -4147,8 +4147,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\c3a1ab3c7bfab8b4dcbb601c5783e08923f9c011.96520d2fe3bf44372877c152470c7455a078a6c3.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\ht\\da0b8aa8-872c-490b-9727-b7d0ea6c1842.ebefb456e22560e99370e45a5fbeaa5ffd8a1399.de-de.xlf",
+      "LocXliffCommit": "b39c66250d2d8096072730bbec5bcea24d3f582e"
     },
     "e2e\\04af1623-36fc-459d-bb59-61cfa68d6e50.md.5db671a912d688ab9a5b03e34581be07d05e417e.HT": {
       "SourceFilename": "e2e\\04af1623-36fc-459d-bb59-61cfa68d6e50.md",
@@ -4157,8 +4157,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\23457c06fb1cf4a1b8a45b9bb90a01c142213907.3855b4b46207171f8b9553f38f116f49329fcc6b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\ht\\04af1623-36fc-459d-bb59-61cfa68d6e50.4c0bad7a531e789671259dc7d2eebf061d7d6c39.de-de.xlf",
+      "LocXliffCommit": "b39c66250d2d8096072730bbec5bcea24d3f582e"
     }
   }
 }
