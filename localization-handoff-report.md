@@ -1,19 +1,20 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\caecbd1a-762b-4d6c-9bdc-a95694b5cd75.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/d95e7159616eca46a3c36675c84eadabdb081f55/e2e/caecbd1a-762b-4d6c-9bdc-a95694b5cd75.md) | HandedOffSuccess | [Details](#b335dad804f7f608ba70c2d2d490d8e3498e3b421)
+ [e2e\16fc81cc-ca3f-40d6-a586-310219bfe4a1.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/52ca229df4b64299ce4fa6dfec41cc91e2b02560/e2e/16fc81cc-ca3f-40d6-a586-310219bfe4a1.md) | HandedOffSuccess | [Details](#efabd5d4f4473ad5917b35fa23660a454e667c3e1)
+ [e2e\ae5b240b-5816-4f77-b500-000566d7f524.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/52ca229df4b64299ce4fa6dfec41cc91e2b02560/e2e/ae5b240b-5816-4f77-b500-000566d7f524.md) | HandedOffSuccess | [Details](#efabd5d4f4473ad5917b35fa23660a454e667c3e2)
 
 ## Item Details
-##### <a name='b335dad804f7f608ba70c2d2d490d8e3498e3b421'></a> Source: [e2e\caecbd1a-762b-4d6c-9bdc-a95694b5cd75.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/d95e7159616eca46a3c36675c84eadabdb081f55/e2e/caecbd1a-762b-4d6c-9bdc-a95694b5cd75.md)
+##### <a name='efabd5d4f4473ad5917b35fa23660a454e667c3e1'></a> Source: [e2e\16fc81cc-ca3f-40d6-a586-310219bfe4a1.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/52ca229df4b64299ce4fa6dfec41cc91e2b02560/e2e/16fc81cc-ca3f-40d6-a586-310219bfe4a1.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [caecbd1a-762b-4d6c-9bdc-a95694b5cd75.106929efe8a9e37a0ef17725c2d060f7d5fd3da9.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/23f9e0646e0cd1f3f60c8ebeb9d636a609891491/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/caecbd1a-762b-4d6c-9bdc-a95694b5cd75.106929efe8a9e37a0ef17725c2d060f7d5fd3da9.de-de.xlf)
-* Handoff Datetime: 2017-02-22 07:19:04
+* Handoff File: [16fc81cc-ca3f-40d6-a586-310219bfe4a1.3b6ded2007d599bb1b72f7e9895cf1fb5f24f654.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/5b69714037323eee78ba5d5fc08532fe42c22617/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/16fc81cc-ca3f-40d6-a586-310219bfe4a1.3b6ded2007d599bb1b72f7e9895cf1fb5f24f654.de-de.xlf)
+* Handoff Datetime: 2017-02-22 07:21:19
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -21,9 +22,20 @@
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
-* Current Target File: [e2e\caecbd1a-762b-4d6c-9bdc-a95694b5cd75.md](https://github.com/OpenLocalizationTestOrg/ol-test4-dede/blob/cbb7d1bd2f2db40fcb790b4787faaaf36f1ac61e/e2e/caecbd1a-762b-4d6c-9bdc-a95694b5cd75.md)
-* Current Handback File: [caecbd1a-762b-4d6c-9bdc-a95694b5cd75.106929efe8a9e37a0ef17725c2d060f7d5fd3da9.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handback/blob/af818b870d8c08649396e0afe1002295b6b02157/ol-handback/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/caecbd1a-762b-4d6c-9bdc-a95694b5cd75.106929efe8a9e37a0ef17725c2d060f7d5fd3da9.de-de.xlf)
-* Current Handback Datetime: 2017-02-22 07:15:46
+* [Back to Top](#report-top)
+
+##### <a name='efabd5d4f4473ad5917b35fa23660a454e667c3e2'></a> Source: [e2e\ae5b240b-5816-4f77-b500-000566d7f524.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/52ca229df4b64299ce4fa6dfec41cc91e2b02560/e2e/ae5b240b-5816-4f77-b500-000566d7f524.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [16fc81cc-ca3f-40d6-a586-310219bfe4a1.3b6ded2007d599bb1b72f7e9895cf1fb5f24f654.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/5b69714037323eee78ba5d5fc08532fe42c22617/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/16fc81cc-ca3f-40d6-a586-310219bfe4a1.3b6ded2007d599bb1b72f7e9895cf1fb5f24f654.de-de.xlf)
+* Handoff Datetime: 2017-02-22 07:21:19
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 
