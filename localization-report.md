@@ -33,10 +33,10 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/de03d56de0042369ca56129b336aa7e65ba78992/.localization-config) | Ignored | [Details](#cb0632cf59c1387fc1742bfb9fa3c47f87e2e5c90)
+ [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/150bdb29528aedf9206b5eac1b45ef4395a54691/.localization-config) | Ignored | [Details](#cb0632cf59c1387fc1742bfb9fa3c47f87e2e5c90)
 
 ## Item Details
-##### <a name='cb0632cf59c1387fc1742bfb9fa3c47f87e2e5c90'></a> Source: [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/de03d56de0042369ca56129b336aa7e65ba78992/.localization-config)
+##### <a name='cb0632cf59c1387fc1742bfb9fa3c47f87e2e5c90'></a> Source: [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/150bdb29528aedf9206b5eac1b45ef4395a54691/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -54,7 +54,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-02-22 02:19:05
+* Handoff Datetime: 2017-02-22 02:21:19
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#ac5610e14e35343352c9459b3e335b10c5a316371handoff_transform_failed)

@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "de03d56de0042369ca56129b336aa7e65ba78992",
+  "LastProcessedCommit": "150bdb29528aedf9206b5eac1b45ef4395a54691",
   "LastTranslatedCommit": "c929244802bddc88eaac52542820802ee330f8ee",
   "LastTansformerVersion": null,
   "LastConfigHash": "9073e1ea929038d21bf26099587cd2fc1c2cbbbb",
@@ -627,7 +627,7 @@
       "TranslationType": 0,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2017-02-22T02:19:05.6127652Z",
+      "HandoffDateTime": "2017-02-22T02:21:19.4493194Z",
       "HandoffXliffHash": "9324aeb38ff1d03cb36e1b178154389494e707ff",
       "HandoffName": null,
       "HandoffPriority": "ht",
@@ -640,7 +640,7 @@
         "stack_trace": "   在 Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass14_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) 位置 G:\\DevEnlistments\\Source\\OpenLocalization\\src\\OpenLocalization\\Localization\\HandoffCore.cs:行号 282",
         "extended_information": null
       },
-      "HandoffFailureTimes": 2,
+      "HandoffFailureTimes": 3,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
