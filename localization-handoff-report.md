@@ -1,64 +1,19 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 4
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\calleeMd1.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/26078d017a56534e9d259d36eddf2529fa11ac44/e2e/calleeMd1.md) | HandedOffSuccess | [Details](#d97b9fe88e70c32c5bdf8f458f8d9d239ba47fb01)
- [e2e\calleeMd2.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/26078d017a56534e9d259d36eddf2529fa11ac44/e2e/calleeMd2.md) | HandedOffSuccess | [Details](#f068d98b2239b2496bb166964b80dee5b0baf2442)
- [e2e\callerMd1.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/26078d017a56534e9d259d36eddf2529fa11ac44/e2e/callerMd1.md) | HandedOffSuccess | [Details](#68740778dfeaa4369f82975c100fb4ac06b7b1ac3)
- [e2e\callerMd2.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/26078d017a56534e9d259d36eddf2529fa11ac44/e2e/callerMd2.md) | HandedOffSuccess | [Details](#6f6d34839b2533b07ece050c090c234097536c3e4)
+ [e2e\4f769bcc-8af8-485c-be52-98fb90d527d2.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/c7689255f007856bba7f872913f69b1755c09efc/e2e/4f769bcc-8af8-485c-be52-98fb90d527d2.md) | HandedOffSuccess | [Details](#5054c7710412b7d726740fbae701c4ecc3473be81)
 
 ## Item Details
-##### <a name='d97b9fe88e70c32c5bdf8f458f8d9d239ba47fb01'></a> Source: [e2e\calleeMd1.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/26078d017a56534e9d259d36eddf2529fa11ac44/e2e/calleeMd1.md)
+##### <a name='5054c7710412b7d726740fbae701c4ecc3473be81'></a> Source: [e2e\4f769bcc-8af8-485c-be52-98fb90d527d2.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/c7689255f007856bba7f872913f69b1755c09efc/e2e/4f769bcc-8af8-485c-be52-98fb90d527d2.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [calleeMd1.e8f5ecec2b522eb147a4ff0ca19ca72e17f2186d.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/cf8c35fc225669b7cd2398adab4d55140bea26ca/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/calleeMd1.e8f5ecec2b522eb147a4ff0ca19ca72e17f2186d.de-de.xlf)
-* Handoff Datetime: 2017-02-28 07:54:47
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='f068d98b2239b2496bb166964b80dee5b0baf2442'></a> Source: [e2e\calleeMd2.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/26078d017a56534e9d259d36eddf2529fa11ac44/e2e/calleeMd2.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [calleeMd2.63b76063f058ecc63ff1dda71ea2a67db72ae6e1.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/cf8c35fc225669b7cd2398adab4d55140bea26ca/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/calleeMd2.63b76063f058ecc63ff1dda71ea2a67db72ae6e1.de-de.xlf)
-* Handoff Datetime: 2017-02-28 07:54:47
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='68740778dfeaa4369f82975c100fb4ac06b7b1ac3'></a> Source: [e2e\callerMd1.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/26078d017a56534e9d259d36eddf2529fa11ac44/e2e/callerMd1.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [callerMd1.a3bf9f4e7fa2750ec06df0b78a76ae5cafa0e0fd.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/cf8c35fc225669b7cd2398adab4d55140bea26ca/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/callerMd1.a3bf9f4e7fa2750ec06df0b78a76ae5cafa0e0fd.de-de.xlf)
-* Handoff Datetime: 2017-02-28 07:54:47
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='6f6d34839b2533b07ece050c090c234097536c3e4'></a> Source: [e2e\callerMd2.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/26078d017a56534e9d259d36eddf2529fa11ac44/e2e/callerMd2.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [callerMd2.c7d976edeb9cd5406eae7aba4c05d6d92e81ae95.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/cf8c35fc225669b7cd2398adab4d55140bea26ca/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/callerMd2.c7d976edeb9cd5406eae7aba4c05d6d92e81ae95.de-de.xlf)
-* Handoff Datetime: 2017-02-28 07:54:47
+* Handoff File: [4f769bcc-8af8-485c-be52-98fb90d527d2.1213a0fa7ab2ab6535ae9f9a547ee1a6189314f0.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/1b98bb1ada87f3ecea1bedbce3501e999e24d559/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/4f769bcc-8af8-485c-be52-98fb90d527d2.1213a0fa7ab2ab6535ae9f9a547ee1a6189314f0.de-de.xlf)
+* Handoff Datetime: 2017-02-28 07:55:40
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
