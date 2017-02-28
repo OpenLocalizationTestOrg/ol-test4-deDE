@@ -21890,9 +21890,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-dede\\xinjiang\\ht\\4f769bcc-8af8-485c-be52-98fb90d527d2.1213a0fa7ab2ab6535ae9f9a547ee1a6189314f0.de-de.xlf",
+      "BilingualFileCommit": "8b3ee90173b560cd553a760540c20588e181ce79",
+      "BilingualDateTime": "2017-02-28T08:01:41.693264Z",
       "BilingualException": null
     },
     "7c3bb8e11e26a97771c00eec9d68b16ab88ebae7": {
