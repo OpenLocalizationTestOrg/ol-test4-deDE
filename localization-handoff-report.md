@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\10f3806c-2998-43cd-a6a2-45851d8a87dc.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/17633b9c133fa9351e548f6c8f6ad97315579176/e2e/10f3806c-2998-43cd-a6a2-45851d8a87dc.md) | HandedOffSuccess | [Details](#ed956dcf81579aac255ccb91f454c158ab02239e1)
+ [e2e\e4b62e68-9e73-4341-bd8b-7913d2211814.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/8b5fd18413e6c9d362de4616de8b169ea00905b7/e2e/e4b62e68-9e73-4341-bd8b-7913d2211814.md) | HandedOffSuccess | [Details](#c077b5230098ea2444770662f7813bf0fb98ef7b1)
 
 ## Item Details
-##### <a name='ed956dcf81579aac255ccb91f454c158ab02239e1'></a> Source: [e2e\10f3806c-2998-43cd-a6a2-45851d8a87dc.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/17633b9c133fa9351e548f6c8f6ad97315579176/e2e/10f3806c-2998-43cd-a6a2-45851d8a87dc.md)
+##### <a name='c077b5230098ea2444770662f7813bf0fb98ef7b1'></a> Source: [e2e\e4b62e68-9e73-4341-bd8b-7913d2211814.md](https://github.com/OpenLocalizationTestOrg/ol-test4/blob/8b5fd18413e6c9d362de4616de8b169ea00905b7/e2e/e4b62e68-9e73-4341-bd8b-7913d2211814.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [10f3806c-2998-43cd-a6a2-45851d8a87dc.a1549cdf2b2566b14fbfbee9968a811be90a4e17.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/150e7f09c0fa7f2c7fa1e2fb43cdea42cd2c63a6/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/10f3806c-2998-43cd-a6a2-45851d8a87dc.a1549cdf2b2566b14fbfbee9968a811be90a4e17.de-de.xlf)
-* Handoff Datetime: 2017-02-28 08:11:04
+* Handoff File: [e4b62e68-9e73-4341-bd8b-7913d2211814.6e7b5dc149116896c21f09f7916930124db97f2c.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handoff/blob/bca296d5721a2b24362331d0548297ec697e3960/ol-handoff/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/e4b62e68-9e73-4341-bd8b-7913d2211814.6e7b5dc149116896c21f09f7916930124db97f2c.de-de.xlf)
+* Handoff Datetime: 2017-03-02 06:43:17
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -21,9 +21,6 @@
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
-* Current Target File: [e2e\10f3806c-2998-43cd-a6a2-45851d8a87dc.md](https://github.com/OpenLocalizationTestOrg/ol-test4-dede/blob/6f39bf158a2e27471004b992d00c0e0a137434f9/e2e/10f3806c-2998-43cd-a6a2-45851d8a87dc.md)
-* Current Handback File: [10f3806c-2998-43cd-a6a2-45851d8a87dc.a1549cdf2b2566b14fbfbee9968a811be90a4e17.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test4-handback/blob/a9d285f1ee3f95945644ae409b3b69261461114f/ol-handback/OpenLocalizationTestOrg/ol-test4-dede/xinjiang/ht/10f3806c-2998-43cd-a6a2-45851d8a87dc.a1549cdf2b2566b14fbfbee9968a811be90a4e17.de-de.xlf)
-* Current Handback Datetime: 2017-02-28 08:09:10
 * [Back to Top](#report-top)
 
 
