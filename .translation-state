@@ -1,5 +1,6 @@
 {
   "LastProcessedCommit": "53bcfd6ddceeb0ab831545734ad52258c35fee06",
+  "LastTranslatedCommit": "200d92ea0396530c4a7ad50a7156e27058cd688a",
   "LastTansformerVersion": "1.0-75ce113",
   "LastConfigHash": "6b643e2ae06dba1acb2ee7cb1c259b2e386d844f",
   "Items": {
@@ -16,7 +17,13 @@
       "HandoffFileCommit": "b56e4656470d18f4bd8363841c9fae69399e5dc2",
       "HandoffDateTime": "2018-02-28T11:32:11.6764835Z",
       "HandoffXliffHash": "349c4f3c331109cfe96be6d2a08d7150e71c61eb",
-      "HandoffPriority": "ht"
+      "HandoffPriority": "ht",
+      "TargetFileCommit": "200d92ea0396530c4a7ad50a7156e27058cd688a",
+      "TargetFilePath": "e2e\\8509edc2-8290-4d8e-bae0-1a55c178ac8b.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-dede\\e2e\\ht\\8509edc2-8290-4d8e-bae0-1a55c178ac8b.ffc68f0aa9d9532ed84f61e5e3097df5201a779e.de-de.xlf",
+      "HandbackFileCommit": "637da3ef00e7591295e6baa5d09461ce20f3988c",
+      "HandbackDateTime": "2018-02-28T11:37:30.6844385Z",
+      "UpdatedDateTime": "2018-02-28T11:37:30.6844385Z"
     }
   }
 }
