@@ -38,7 +38,10 @@
       "HandoffFileCommit": "63d6919548f078482060d07bb60d8a80975c579d",
       "HandoffDateTime": "2018-03-08T19:42:51.4623148Z",
       "HandoffXliffHash": "63668f3184644867832940d4a2c854712829f785",
-      "HandoffPriority": "ht"
+      "HandoffPriority": "ht",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationTestOrg\\ol-test4-dede\\qimu\\ht\\fa9defb8-9419-411a-8156-ead20580a9f8.3198b0bd91bf75f8d55dfd9a7097f656dbdbd338.de-de.xlf",
+      "ArchiveFileCommit": "17881a8a593257a696985ec5a2e15109aa6b5629",
+      "ArchiveFileDateTime": "2018-03-08T19:45:30.1892061Z"
     }
   }
 }
